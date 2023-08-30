@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
+#include <bits/stdc++.h>   //testcase:1                    testcase:2               testcase:3 
+using namespace std;       //in: n=7 a[]=[2,3,4,8,2,2,1]   n=7 a[]=[2,2,2,3,3,3,1]   n=6 a[]=[3,8,9,1,3,6]
+int main(){                //out: 2                         out: 2 3                 out:-1
     int n;
     cin >> n;
     int a[n];
