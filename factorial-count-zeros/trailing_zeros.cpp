@@ -14,3 +14,7 @@ int main()
     cout << no_of_zero <<endl;
     return 0;
 }
+// test cases :1     test case :2    test case:3
+//     in: n=5       in: n=11        n=75
+//     out: 1        out: 2          out: 18
+    
